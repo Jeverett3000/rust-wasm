@@ -27,7 +27,7 @@
     "autoprefixer": "^10.2.5",
     "babel-plugin-macros": "^3.0.1",
     "babel-plugin-styled-components": "^1.12.0",
-    "postcss": "^8.2.8",
+    "postcss": "^8.4.31",
     "react-is": "^17.0.2",
     "tailwindcss": "^2.0.4",
     "ts-node": "^9.1.1",
